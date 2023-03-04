@@ -3,6 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+## solve problem of react flow use following command after deleting node_modules: 
+install npm install --save --save-exact react-scripts@5.0.0
 
 In the project directory, you can run:
 
