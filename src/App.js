@@ -41,7 +41,7 @@ function App() {
           <ClickableText link="https://www.linkedin.com/in/ahmed-mekkaoui-3091391aa/" text="Linkdin" />
           
           </div>
-          <p className='text-white  pl-2 pt-3'>ahmed mekkaoui — Copyright © 2022 .All right reserved</p>
+          <p className='text-white  pl-2 '>ahmed mekkaoui — Copyright © 2022 .All right reserved</p>
         </div>
 
         
